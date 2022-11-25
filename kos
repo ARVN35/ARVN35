@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nama": "Kos pak hadi",
+    "fotoUrl": "https://drive.google.com/open?id=1gtBzoaiKNHmDVElIFFmKrCCMPxc29Ey6",
+    "harga": 300,
+    "wa": "'081223454487",
+    "lat": -7.761241,
+    "ling": 113.235243
+  },
+    {
+    "id": 2,
+    "nama": "kontrakan Sumber taman",
+    "fotoUrl": "https://drive.google.com/open?id=1Zd16LIaJvVOS2phOFDdOYHMf7OyH1FxZ",
+    "harga": 5jt,
+    "wa": "'085204875720",
+    "lat": -7.780090,
+    "ling": 113.231405
+  },
+    {
+    "id": 2,
+    "nama": "Kost Melati",
+    "fotoUrl": "https://drive.google.com/open?id=1BDYyYb1AS2s9RmMvIQR6gnDByRRppmdC",
+    "harga": 450-350,
+    "wa": "'081231504635",
+    "lat": -7.784371,
+    "ling": 113.187485
+  },
+  
