@@ -165,7 +165,7 @@
     "id": 19,
     "nama": "Kos putri",
     "fotoUrl": "https://drive.google.com/open?id=14sIPU7eO9LljJOG0E5dSLSKUUIzIEXIN",
-    "harga": 450/thn,
+    "harga": 450/bln,
     "wa": "087853928106",
     "lat": -7.762252,
     "ling": 113.236679
@@ -174,11 +174,39 @@
     "id": 20,
     "nama": "Kos Herova",
     "fotoUrl": "https://drive.google.com/open?id=1BsPgsmT3N_SHURWQvj08GBSoXLegtnBP",
-    "harga": 250/thn,
+    "harga": 250/bln,
     "wa": "085855709731",
     "lat": -7.803139,
     "ling": 113.210634
   },
+  {
+    "id": 21,
+    "nama": "Kontrakan sejahtera",
+    "fotoUrl": "https://drive.google.com/open?id=1tiBoJCAL4GpjEDHQU40vCJ3iWTYh1d6j",
+    "harga": 250/bln,
+    "wa": "0896339149630",
+    "lat": -7.759972,
+    "ling": 113.214027
+  },
+  {
+    "id": 22,
+    "nama": "Kos Tirta",
+    "fotoUrl": "https://drive.google.com/open?id=1fzK_GO_pbmP_d9avLA7pkd1JLamj3yZc",
+    "harga": 300/bln,
+    "wa": "082334455480",
+    "lat": -7.803687,
+    "ling": 113.210361
+  },
+  {
+    "id": 23,
+    "nama": "kontrakan Family Man",
+    "fotoUrl": "https://drive.google.com/open?id=1KhYpEBrEvnmyrQR0oLwyKUxeSY9U1Hcg",
+    "harga": 7jt/thn,
+    "wa": "085330384974",
+    "lat": -7.742057,
+    "ling": 113.219685
+  },
+  
   
   
   
