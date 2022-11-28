@@ -3,7 +3,7 @@
         "id": 1,
         "nama": "Kos pak hadi",
         "fotoUrl": "https://drive.google.com/open?id=1gtBzoaiKNHmDVElIFFmKrCCMPxc29Ey6",
-        "harga": 300 / bln,
+        "harga": "300/bln",
         "wa": "081223454487",
         "lat": -7.761241,
         "ling": 113.235243
@@ -12,7 +12,7 @@
         "id": 2,
         "nama": "kontrakan Sumber taman",
         "fotoUrl": "https://drive.google.com/open?id=1Zd16LIaJvVOS2phOFDdOYHMf7OyH1FxZ",
-        "harga": 5jt/ thn,
+        "harga": "5jt/thn",
         "wa": "085204875720",
         "lat": -7.780090,
         "ling": 113.231405
@@ -21,7 +21,7 @@
         "id": 3,
         "nama": "Kost Melati",
         "fotoUrl": "https://drive.google.com/open?id=1BDYyYb1AS2s9RmMvIQR6gnDByRRppmdC",
-        "harga": 350 - 450 / thn,
+        "harga": "350-450/thn",
         "wa": "081231504635",
         "lat": -7.784371,
         "ling": 113.187485
@@ -30,8 +30,7 @@
         "id": 4,
         "nama": "Kontrakan ibu Sulastri",
         "fotoUrl": "https://drive.google.com/open?id=1tdcwudllg4ZohkgNeXhkNf3VeuJeGW0p",
-        "harga": 3,
-        5/thn,
+        "harga": "3,5/thn",
         "wa": "082244475676//082338696108",
         "lat": -7.761995,
         "ling": 113.2389
@@ -40,7 +39,7 @@
         "id": 5,
         "nama": "Kos putri dwiana",
         "fotoUrl": "https://drive.google.com/open?id=1bk2HCngVdE_GQNnGev-CoPwYQrcQZD_5",
-        "harga": 550 - 800 / bln,
+        "harga": "550-800/bln",
         "wa": "082331416754",
         "lat": -7.773547,
         "ling": 113.2118
@@ -49,8 +48,7 @@
         "id": 6,
         "nama": "Kontrakan krista",
         "fotoUrl": "https://drive.google.com/open?id=1HMhJdBUDLlhWei21pTJ_J3Fc__ww6A_q",
-        "harga": 3 - 5,
-        5jt / thn,
+        "harga": "3-5,5jt/thn",
         "wa": "085606212739",
         "lat": -7.753097,
         "ling": 113.238090
@@ -59,7 +57,7 @@
         "id": 7,
         "nama": "Kos pak hery",
         "fotoUrl": "https://drive.google.com/open?id=18cwHC8hmD-AgzTJunSsvhbQPoZ9VEMuZ",
-        "harga": 300 / bln,
+        "harga": "300/bln",
         "wa": "082768097546",
         "lat": -7.761867,
         "ling": 113.236736
@@ -68,8 +66,7 @@
         "id": 8,
         "nama": "Kontrakan Badri",
         "fotoUrl": "https://drive.google.com/open?id=1Th-j49hikGFy2LjtMWh68STx72UWzUxG",
-        "harga": 3,
-        2jt / thn,
+        "harga": "3,2jt/thn",
         "wa": "0822-4447-5676",
         "lat": -7.761718,
         "ling": 113.238690
@@ -78,7 +75,7 @@
         "id": 9,
         "nama": "kos lindung",
         "fotoUrl": "https://drive.google.com/open?id=1C6s78eoTpCQ1OAjF9ovk-zJrS2gJ5AyY",
-        "harga": 225 - 250 / bln,
+        "harga": "225-250/bln",
         "wa": "085815745369",
         "lat": -7.756771,
         "ling": 113.213608
@@ -87,7 +84,7 @@
         "id": 10,
         "nama": "kos bu yudi",
         "fotoUrl": "https://drive.google.com/open?id=1Amn2WuOAoQYscd4h3gxxY2-wCUjjqJFZ",
-        "harga": 400 / bln,
+        "harga": "400/bln",
         "wa": "081330619768",
         "lat": -7.761565,
         "ling": 113.2367
@@ -96,7 +93,7 @@
         "id": 11,
         "nama": "Kontrakan Utari",
         "fotoUrl": "https://drive.google.com/open?id=19WRWCVGd3jV0lvVGRa-DCXIZAv0hxuk4",
-        "harga": 4jt/ thn,
+        "harga": "4jt/thn",
         "wa": "082237268808",
         "lat": -7.759339,
         "ling": 113.216623
@@ -105,7 +102,7 @@
         "id": 12,
         "nama": "kos Sang Dewi",
         "fotoUrl": "https://drive.google.com/open?id=1JzXBhdvYkkzVoyTKWzNOvx-dkGZ0d760",
-        "harga": 350 / bln,
+        "harga": "350/bln",
         "wa": "086092704761",
         "lat": -7.758588,
         "ling": 113.2241
@@ -114,7 +111,7 @@
         "id": 13,
         "nama": "kos Putri Merpati",
         "fotoUrl": "https://drive.google.com/open?id=1Z3Tei1mmfJWLR5W5_Df19h0IZY8ayCPP",
-        "harga": 350 - 450 / bln,
+        "harga": "350-450/bln",
         "wa": "08230424409",
         "lat": -7.753935,
         "ling": 113.230754
@@ -123,7 +120,7 @@
         "id": 14,
         "nama": "kos Putra Tunggal",
         "fotoUrl": "https://drive.google.com/open?id=1WhRLSKbhyMufxjgzN5-EbwpfaKRN02UT",
-        "harga": 400 / bln,
+        "harga": "400/bln",
         "wa": "082338866744",
         "lat": -7.767336,
         "ling": 113.251684
@@ -132,7 +129,7 @@
         "id": 15,
         "nama": "Kos Pak Rofi",
         "fotoUrl": "https://drive.google.com/open?id=1weUIZdOnvLcUXEAyWSMatXw9z2Pt4cyZ",
-        "harga": 310 / bln,
+        "harga": "310/bln",
         "wa": "082232339162",
         "lat": -7.773411,
         "ling": 113.2537
@@ -141,7 +138,7 @@
         "id": 16,
         "nama": "kos Putri Kembar",
         "fotoUrl": "https://drive.google.com/open?id=1Z8qEP0YFkCfE0K2bJ2ouAtKTI-Trc3sV",
-        "harga": 400 / bln,
+        "harga": "400/bln",
         "wa": "082331050348",
         "lat": -7.753855,
         "ling": 113.230307
@@ -150,7 +147,7 @@
         "id": 17,
         "nama": "kontrakan Garuda jaya",
         "fotoUrl": "https://drive.google.com/open?id=1y5ppAP6bnaZI1dPtUCmFWO9KfqNs0My0",
-        "harga": 4jt/ thn,
+        "harga": "4jt/thn",
         "wa": "0822703285194",
         "lat": -7.758523,
         "ling": 113.238893
@@ -159,8 +156,7 @@
         "id": 18,
         "nama": "Kontrakan pak tomi",
         "fotoUrl": "https://drive.google.com/open?id=1C1WKJfH9w6n0bzDRDiukQOUVx8IOy0Kp",
-        "harga": 3,
-        5jt / thn,
+        "harga": "3,5jt/thn",
         "wa": "082347980274",
         "lat": -7.793828,
         "ling": 113.213372
@@ -169,7 +165,7 @@
         "id": 19,
         "nama": "Kos putri",
         "fotoUrl": "https://drive.google.com/open?id=14sIPU7eO9LljJOG0E5dSLSKUUIzIEXIN",
-        "harga": 450 / bln,
+        "harga": "450/bln",
         "wa": "087853928106",
         "lat": -7.762252,
         "ling": 113.236679
@@ -178,7 +174,7 @@
         "id": 20,
         "nama": "Kos Herova",
         "fotoUrl": "https://drive.google.com/open?id=1BsPgsmT3N_SHURWQvj08GBSoXLegtnBP",
-        "harga": 250 / bln,
+        "harga": "250/bln",
         "wa": "085855709731",
         "lat": -7.803139,
         "ling": 113.210634
@@ -187,7 +183,7 @@
         "id": 21,
         "nama": "Kontrakan sejahtera",
         "fotoUrl": "https://drive.google.com/open?id=1tiBoJCAL4GpjEDHQU40vCJ3iWTYh1d6j",
-        "harga": 250 / bln,
+        "harga": "250/bln",
         "wa": "0896339149630",
         "lat": -7.759972,
         "ling": 113.214027
@@ -196,7 +192,7 @@
         "id": 22,
         "nama": "Kos Tirta",
         "fotoUrl": "https://drive.google.com/open?id=1fzK_GO_pbmP_d9avLA7pkd1JLamj3yZc",
-        "harga": 300 / bln,
+        "harga": "300/bln",
         "wa": "082334455480",
         "lat": -7.803687,
         "ling": 113.210361
@@ -205,7 +201,7 @@
         "id": 23,
         "nama": "kontrakan Family Man",
         "fotoUrl": "https://drive.google.com/open?id=1KhYpEBrEvnmyrQR0oLwyKUxeSY9U1Hcg",
-        "harga": 7jt/ thn,
+        "harga": "7jt/thn",
         "wa": "085330384974",
         "lat": -7.742057,
         "ling": 113.219685
@@ -214,8 +210,7 @@
         "id": 24,
         "nama": "Kontrakan bono",
         "fotoUrl": "https://drive.google.com/open?id=1dWr_I_yFXBIEokFU3GwXgDjqIaJB75NV",
-        "harga": 2,
-        7jt / thn,
+        "harga": "2,7jt/thn",
         "wa": "082398706923",
         "lat": -7.772107,
         "ling": 113.228491
@@ -224,7 +219,7 @@
         "id": 25,
         "nama": "Kos wamar",
         "fotoUrl": "https://drive.google.com/open?id=1sm1eDLSz8FTWf8heksUU5qUMXSQX_qHe",
-        "harga": 275 - 350 / bln,
+        "harga": "275-350/bln",
         "wa": "082143256204",
         "lat": -7.748332,
         "ling": 113.223596
@@ -233,7 +228,7 @@
         "id": 26,
         "nama": "Guest house",
         "fotoUrl": "https://drive.google.com/open?id=1OLE6j4EDUIzO4TOIU2bom6mcwfZt9SgN",
-        "harga": 1jt/ bln,
+        "harga": "1jt/bln",
         "wa": "082132347348",
         "lat": -7.769863,
         "ling": 113.1752
@@ -242,7 +237,7 @@
         "id": 27,
         "nama": "Guest house Baiti jannati",
         "fotoUrl": "https://drive.google.com/open?id=16rrFvkodgM5OanZmB4di1LfJIJZS7lwe",
-        "harga": 375 / bln,
+        "harga": "375/bln",
         "wa": "085645477478",
         "lat": -7.759192,
         "ling": 113.207058
@@ -251,7 +246,7 @@
         "id": 28,
         "nama": "kos pak haji manap",
         "fotoUrl": "https://drive.google.com/open?id=15nz7FCxTv4gDxMna39H4j7iTmWaomaBF",
-        "harga": 250 / bln,
+        "harga": "250/bln",
         "wa": "085221462755",
         "lat": -7.760135,
         "ling": 113.237991
@@ -260,8 +255,9 @@
         "id": 29,
         "nama": "kos Reni",
         "fotoUrl": "https://drive.google.com/open?id=1JEERds5TMVszXO-cP3zcqt6LeGjS2Al-",
-        "harga": 300 / bln,
+        "harga": "300/bln",
         "wa": "085855709731",
         "lat": -7.769414,
         "ling": 113.216264
-    },
+    }
+]
