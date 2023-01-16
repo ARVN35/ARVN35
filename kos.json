@@ -296,7 +296,19 @@
         "harga": "7jt/thn",
         "wa": "085330384974",
         "lat": -7.742057,
-        "lng": 113.219685
+        "lng": 113.219685,
+        "Deskripsi":
+        "Fasilitas umum:"
+        "sapu"
+        "ac"
+        "kulkas"
+        "ember"
+        "alat dapur"
+        "fasilitas pribadi/kamar:"
+        "kasur"
+        "guling"
+        "bantal"
+        "kipas"
     },
     {
         "id": 24,
@@ -349,6 +361,7 @@
         "wa": "085645477478",
         "lat": -7.759192,
         "lng": 113.207058
+        "Deskripsi": 
     },
     {
         "id": 28,
